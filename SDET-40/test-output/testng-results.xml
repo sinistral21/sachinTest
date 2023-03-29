@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-11T10:59:35 IST" name="Default suite" finished-at="2022-11-11T10:59:39 IST" duration-ms="3228">
+    <groups>
+    </groups>
+    <test started-at="2022-11-11T10:59:35 IST" name="Default test" finished-at="2022-11-11T10:59:39 IST" duration-ms="3228">
+      <class name="authentication.BearerToken">
+        <test-method signature="bearerToke()[pri:0, instance:authentication.BearerToken@2e55dd0c]" started-at="2022-11-11T10:59:35 IST" name="bearerToke" finished-at="2022-11-11T10:59:39 IST" duration-ms="3195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bearerToke -->
+      </class> <!-- authentication.BearerToken -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
